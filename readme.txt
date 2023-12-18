@@ -1,6 +1,5 @@
 # Readme.txt
 # Maleah Maxie
-# mmaxie3@gatech.edu
 Prerequisites: Conda installation
 
 1. Set up the conda ml_env using the included requirements.txt file.
