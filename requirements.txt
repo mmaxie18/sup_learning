@@ -1,0 +1,6 @@
+jupyterlab
+mlrose-hiive
+numpy
+pandas
+scikit-learn
+yellowbrick
